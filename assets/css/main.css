@@ -2662,7 +2662,7 @@ input, select, textarea {
 			}
 
 			.feature .content :last-child {
-				margin: 0;
+				margin: 5px;
 			}
 
 		.feature.left {
@@ -3143,6 +3143,7 @@ input, select, textarea {
 			}
 
 				.feature:last-child {
+					margin: 5px;
 					margin-bottom: 0;
 				}
 
